@@ -1,0 +1,12 @@
+/home/sahib/2023-project-phase-starter-projects/aait/backend/group-1B/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/sahib/2023-project-phase-starter-projects/aait/backend/group-1B/Domain/bin/Debug/net7.0/Domain.dll
+/home/sahib/2023-project-phase-starter-projects/aait/backend/group-1B/Domain/bin/Debug/net7.0/Domain.pdb
+/home/sahib/2023-project-phase-starter-projects/aait/backend/group-1B/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/sahib/2023-project-phase-starter-projects/aait/backend/group-1B/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/sahib/2023-project-phase-starter-projects/aait/backend/group-1B/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/sahib/2023-project-phase-starter-projects/aait/backend/group-1B/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/sahib/2023-project-phase-starter-projects/aait/backend/group-1B/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/sahib/2023-project-phase-starter-projects/aait/backend/group-1B/Domain/obj/Debug/net7.0/Domain.dll
+/home/sahib/2023-project-phase-starter-projects/aait/backend/group-1B/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/sahib/2023-project-phase-starter-projects/aait/backend/group-1B/Domain/obj/Debug/net7.0/Domain.pdb
+/home/sahib/2023-project-phase-starter-projects/aait/backend/group-1B/Domain/obj/Debug/net7.0/ref/Domain.dll
