@@ -1,6 +1,6 @@
 # Social Media Web API (ASP.NET)
 
-During our internship from Africa to Silicon Valley, our team developed a Social Media Web API using ASP.NET Framework [repo]([url](https://github.com/RealEskalate/2023-project-phase-starter-projects/tree/main/aait/backend/group-1B)). This project aimed to meet specific requirements:
+During our internship from Africa to Silicon Valley, our team developed a Social Media Web API using ASP.NET Framework [repo](https://github.com/RealEskalate/2023-project-phase-starter-projects/tree/main/aait/backend/group-1B). This project aimed to meet specific requirements:
 
 ## Project Requirements
 - **Clean Architecture:** The codebase was structured using clean architecture principles.
